@@ -1,5 +1,5 @@
 ## n8n scraper
-This scraper uses selenium to scraper different states, Secretary of State websites.
+This scraper uses selenium to scraper different states, Secretary of State websites business fillings.
 Save the data as json locally, then can post it to you n8n workflow. 
 
 ### States Scrapers done so far
